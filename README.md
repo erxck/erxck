@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <h1>Hii, my name's Erick!</h1>
     <p>Software Developer and Information Security Enthusiast</p>
 </div>
