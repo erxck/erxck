@@ -1,9 +1,7 @@
-<h1 align="center">
-    Hii, my name's Erick!
-</h1>
-<p align="center">
-    Software Developer and Information Security Enthusiast
-</p>
+<div>
+    <h1>Hii, my name's Erick!</h1>
+    <p>Software Developer and Information Security Enthusiast</p>
+</div>
 <div align="center">
     <a href="https://github.com/erxck">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erxck&show_icons=true&theme=react&include_all_commits=true&count_private=true">
