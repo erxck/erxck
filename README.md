@@ -1,6 +1,6 @@
 <div>
     <h1>Oi, eu sou o Erick!</h1>
-    > Software Developer and Information Security Enthusiast
+    <p>Software Developer and Information Security Enthusiast</p>
 </div>
 
 <div align="center">
