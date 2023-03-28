@@ -18,6 +18,7 @@
     <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Erick-TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
     <img align="center" alt="Erick-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+    <img align="right" alt="Erick-Pic" height="150" style="border-radius:50px;" src="/public/bart_gaming_.jpg">
 </div>
 
 ##
