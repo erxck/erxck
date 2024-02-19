@@ -29,9 +29,8 @@ I am a Computer Science student passionate about software development and cybers
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/erxck"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=erxck&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=22c55e&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="erxck's GitHub stats" /></a>
-
-<a href="https://github.com/erxck" align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxck&langs_count=10&title_color=10b981&text_color=22c55e&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/erxck"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=erxck&show_icons=true&theme=react&include_all_commits=true&count_private=true"></a>
+<a href="http://www.github.com/erxck"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxck&layout=compact&langs_count=7&theme=react"></a>
 
 ##
 
